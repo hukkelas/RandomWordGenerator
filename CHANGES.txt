@@ -1,0 +1,2 @@
+v0.1 10/17/2018 -- Initial release.
+v0.2 10/17/2018 -- Small bug fixes
