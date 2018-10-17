@@ -4,6 +4,7 @@ import random
 word_site = "http://svnweb.freebsd.org/csrg/share/dict/words?view=co&content-type=text/plain"
 dir_path = os.path.dirname(os.path.realpath(__file__))
 word_path = os.path.join(dir_path, "words.txt")
+
 def download_and_save():
     print("Downloading words from:", word_site)
     response = requests.get(word_site)

@@ -10,7 +10,7 @@ pip install wordgenerator
 ## Usage
 
 ```python
-from word_generator import generate_random_word
+from wordgenerator import generate_random_word
 
 print(generate_random_word())
 ```

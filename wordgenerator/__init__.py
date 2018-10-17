@@ -1,0 +1,1 @@
+from wordgenerator.main import generate_random_word
