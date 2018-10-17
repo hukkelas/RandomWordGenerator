@@ -2,6 +2,10 @@
 
 Random Word Generator provides a simple way to generate random words from a list of 25,487 words. 
 
+## Install
+```bash
+pip install wordgenerator
+```
 
 ## Usage
 
